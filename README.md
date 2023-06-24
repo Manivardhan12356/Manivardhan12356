@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/manivardhan123" target="blank"><img src="https://img.shields.io/twitter/follow/manivardhan123?logo=twitter&style=for-the-badge" alt="manivardhan123" /></a> </p>
 
-- 🌱 I’m currently learning **B.tech final year**
+- 🌱 I’m currently learning *mern stack developement**
 
-- 👯 I’m looking to collaborate on [data analyst role and front-end developer](https://github.com/Manivardhan12356/data_analyst_portfolio_website/blob/7f57714a525500f1638b75211fbe57b85c1da61b/movie%20%20coorelation%20%20project.ipynb)
+- 👯 I’m looking to collaborate on [ full stack developer](https://github.com/Manivardhan12356/data_analyst_portfolio_website/blob/7f57714a525500f1638b75211fbe57b85c1da61b/movie%20%20coorelation%20%20project.ipynb)
 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/12WPhZ7xtqq8sUepkpKwu16BTjTPwUM9f/edit?usp=sharing&ouid=104991939997588036417&rtpof=true&sd=true](https://docs.google.com/document/d/12WPhZ7xtqq8sUepkpKwu16BTjTPwUM9f/edit?usp=sharing&ouid=104991939997588036417&rtpof=true&sd=true)
 
-- 📫 you can reach me **manivardhan12356@gmail.com**
+- 📫 you can reach me **manivardhan12356@gmail.com** or **manivardhan1829@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/12WPhZ7xtqq8sUepkpKwu16BTjTPwUM9f/edit?usp=sharing&ouid=104991939997588036417&rtpof=true&sd=true](https://docs.google.com/document/d/12WPhZ7xtqq8sUepkpKwu16BTjTPwUM9f/edit?usp=sharing&ouid=104991939997588036417&rtpof=true&sd=true)
 
